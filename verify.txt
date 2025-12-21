@@ -1,0 +1,9 @@
+//MiaXHwid
+//Ejemplo para el hacha
+
+//aqui la hwid, despues te vas a la siguiente linea
+//y pues pones el nombre de quien quieres verificar.
+//Despues pones estos comandos en orde: 
+//git add verify.txt.
+//git commit -m "Agrege hwid de (pones de quien)"
+//git push origin main.
